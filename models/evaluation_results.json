@@ -1,0 +1,58 @@
+{
+  "CATEGORY - Linear SVM": {
+    "accuracy": 0.9582,
+    "precision_macro": 0.8646,
+    "recall_macro": 0.89,
+    "f1_macro": 0.8737,
+    "f1_weighted": 0.9618
+  },
+  "CATEGORY - Logistic Regression": {
+    "accuracy": 0.9109,
+    "precision_macro": 0.6844,
+    "recall_macro": 0.9056,
+    "f1_macro": 0.7518,
+    "f1_weighted": 0.9286
+  },
+  "SUBCATEGORY - SOFTWARE": {
+    "accuracy": 0.8657,
+    "precision_macro": 0.7314,
+    "recall_macro": 0.8237,
+    "f1_macro": 0.7601,
+    "f1_weighted": 0.8753
+  },
+  "SUBCATEGORY - PIV CARD": {
+    "accuracy": 0.995,
+    "precision_macro": 0.9938,
+    "recall_macro": 0.9938,
+    "f1_macro": 0.9936,
+    "f1_weighted": 0.995
+  },
+  "SUBCATEGORY - PRINTER": {
+    "accuracy": 0.95,
+    "precision_macro": 0.9545,
+    "recall_macro": 0.95,
+    "f1_macro": 0.9499,
+    "f1_weighted": 0.9499
+  },
+  "SUBCATEGORY - NETWORK": {
+    "accuracy": 0.8235,
+    "precision_macro": 0.8333,
+    "recall_macro": 0.9167,
+    "f1_macro": 0.8439,
+    "f1_weighted": 0.8282
+  },
+  "SUBCATEGORY - ACCOUNT": {
+    "accuracy": 0.9825,
+    "precision_macro": 0.8303,
+    "recall_macro": 0.8303,
+    "f1_macro": 0.8303,
+    "f1_weighted": 0.9825
+  },
+  "SUBCATEGORY - SECURITY": {
+    "accuracy": 0.8154,
+    "precision_macro": 0.6333,
+    "recall_macro": 0.6718,
+    "f1_macro": 0.6497,
+    "f1_weighted": 0.8187
+  }
+}
